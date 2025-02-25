@@ -1,16 +1,17 @@
 Airport Slot Allocation System
 
-Project Overview
+📌 Project Overview
+
 This project analyzes the airport slot allocation system at Level 3 Airports, following the Worldwide Airport Slot Guidelines (WASG). It ensures efficient and fair slot distribution to airlines while adhering to international aviation regulations.
 
-Objective
+🎯 Objective
 
 Improve slot allocation efficiency for airlines.
 Ensure fair distribution of airport slots.
 Maintain compliance with aviation guidelines.
 Optimize airport capacity utilization.
 
-Key Features
+🚀 Key Features
 
 Airline Slot Requests – Airlines submit slot requests to the system.
 Slot Coordinator Review – Evaluates and processes requests.
@@ -19,7 +20,7 @@ Slot Pool Management – Creates and distributes available slots.
 Waitlist Mechanism – Manages unfulfilled slot requests.
 Compliance Monitoring – Ensures adherence to aviation regulations.
 
-Files Included
+📂 Files Included
 
 
 Airport allocation Report.pdf – Detailed project report.
@@ -42,7 +43,7 @@ use case diagram.jpg – Shows system interaction with airlines & coordinators.
 
 usecase description.jpg – Explanation of use case interactions.
 
-Diagrams Used
+📌 Diagrams Used
 
 
 Use Case Diagram – Interaction between airlines & coordinators.
@@ -55,8 +56,7 @@ Sequence Diagram – Represents event-based interactions.
 
 State Machine Diagram – Illustrates slot transitions & status updates.
 
-Authors
-
+👨‍💻 Authors
 
 Likitha Shatdarsanam
 
