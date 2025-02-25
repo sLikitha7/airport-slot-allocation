@@ -22,14 +22,23 @@ Compliance Monitoring – Ensures adherence to aviation regulations.
 Files Included
 
 Airport allocation Report.pdf – Detailed project report.
+
 AirportAllocationPPT.pptx – Presentation summarizing the project.
+
 README.md – Project documentation.
+
 CRC Diagram.jpg – Class Responsibility Collaboration diagram.
+
 activity diagram.jpg – Illustrates the slot allocation process.
+\
 behavioral state machine diagram.jpg – Shows slot states & transitions.
+
 class diagram.jpg – Defines system structure & relationships.
+
 sequence diagram.jpg – Displays event-based interactions.
+
 use case diagram.jpg – Shows system interaction with airlines & coordinators.
+
 usecase description.jpg – Explanation of use case interactions.
 
 Diagrams Used
