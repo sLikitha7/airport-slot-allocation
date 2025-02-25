@@ -21,6 +21,7 @@ Compliance Monitoring – Ensures adherence to aviation regulations.
 
 Files Included
 
+
 Airport allocation Report.pdf – Detailed project report.
 
 AirportAllocationPPT.pptx – Presentation summarizing the project.
@@ -42,6 +43,8 @@ use case diagram.jpg – Shows system interaction with airlines & coordinators.
 usecase description.jpg – Explanation of use case interactions.
 
 Diagrams Used
+
+
 Use Case Diagram – Interaction between airlines & coordinators.
 
 Activity Diagram – Visualizes the slot allocation workflow.
@@ -53,6 +56,8 @@ Sequence Diagram – Represents event-based interactions.
 State Machine Diagram – Illustrates slot transitions & status updates.
 
 Authors
+
+
 Likitha Shatdarsanam
 
 Hanchen Wang
