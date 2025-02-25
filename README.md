@@ -30,7 +30,7 @@ README.md – Project documentation.
 CRC Diagram.jpg – Class Responsibility Collaboration diagram.
 
 activity diagram.jpg – Illustrates the slot allocation process.
-\
+
 behavioral state machine diagram.jpg – Shows slot states & transitions.
 
 class diagram.jpg – Defines system structure & relationships.
@@ -43,15 +43,23 @@ usecase description.jpg – Explanation of use case interactions.
 
 Diagrams Used
 Use Case Diagram – Interaction between airlines & coordinators.
+
 Activity Diagram – Visualizes the slot allocation workflow.
+
 Class Diagram – Defines the system's structure & relationships.
+
 Sequence Diagram – Represents event-based interactions.
+
 State Machine Diagram – Illustrates slot transitions & status updates.
 
 Authors
 Likitha Shatdarsanam
+
 Hanchen Wang
+
 Udayakumar Venkatesan
+
 Connor Tyrell
+
 Annalee Watts
 
