@@ -10,7 +10,7 @@ Ensure fair distribution of airport slots.
 Maintain compliance with aviation guidelines.
 Optimize airport capacity utilization.
 
-🚀 Key Features
+Key Features
 
 Airline Slot Requests – Airlines submit slot requests to the system.
 Slot Coordinator Review – Evaluates and processes requests.
@@ -20,6 +20,7 @@ Waitlist Mechanism – Manages unfulfilled slot requests.
 Compliance Monitoring – Ensures adherence to aviation regulations.
 
 Files Included
+
 Airport allocation Report.pdf – Detailed project report.
 AirportAllocationPPT.pptx – Presentation summarizing the project.
 README.md – Project documentation.
